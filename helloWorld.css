@@ -1,0 +1,19 @@
+body {
+  font-family: system-ui;
+  background: #c33131;
+  color: white;
+  text-align: center;
+}
+
+/* h1 en Arial con tamaño 10vw */
+h1 {
+  font-family: Arial;
+  font-size: 7vw;
+}
+
+/* h2 en Times New Roman con tamaño 5vw */
+h2 {
+  font-family: "American Typewriter";
+  font-size: 3vw;
+  color: green;
+}
